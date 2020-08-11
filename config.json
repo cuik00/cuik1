@@ -4,16 +4,16 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "300.00000000",
+ "Target Profit": "200.00000000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
- "Interval": "1",
+ "Interval": "2",
  "Config": [{
 
      "Name Bet Set": "1",
      "Base Bet": "0.01",
      "Max Bet": "OFF",
-     "Chance": "6.02",
+     "Chance": "6.01",
      "Random Chance": {
           "Toggle": "Off",
           "Min": "80",
