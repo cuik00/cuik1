@@ -1,0 +1,246 @@
+{
+
+ "Account": {
+     "Username": "",
+     "Password": ""
+     },
+ "Target Profit": "200.00000000",
+ "Target Win": "50000.00000000",
+ "Lose Target": "0.00000",
+ "Interval": "5",
+ "Config": [{
+
+     "Name Bet Set": "1",
+     "Base Bet": "0.02",
+     "Max Bet": "OFF",
+     "Chance": "30",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "80",
+          "Max": "85"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "3",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.8",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "19"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "2",
+     "Base Bet": "0.025",
+     "Max Bet": "OFF",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "6",
+          "Max": "10"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "18"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "3",
+     "Base Bet": "0.02",
+     "Max Bet": "OFF",
+     "Chance": "30",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "3",
+              "If Win": "4"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.8",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "19"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "4",
+     "Base Bet": "0.025",
+     "Max Bet": "OFF",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "80",
+          "Max": "85"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "5",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "18"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "5",
+     "Base Bet": "0.02",
+     "Max Bet": "OFF",
+     "Chance": "30",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "6",
+          "Max": "10"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "5",
+     "If Lose": "1.8",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "19"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "6",
+     "Base Bet": "0.025",
+     "Max Bet": "OFF",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "3",
+              "If Win": "4"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "18"
+        },
+     "Interval": "1"
+     },{
+ "Name Bet Set": "7",
+     "Base Bet": "0.02",
+     "Max Bet": "OFF",
+     "Chance": "30",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "80",
+          "Max": "85"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "3",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.8",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "19"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "8",
+     "Base Bet": "0.025",
+     "Max Bet": "OFF",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "6",
+          "Max": "10"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "On",
+              "If Lose": "2",
+              "If Win": "3"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2",
+     "Reset If Win": "1",
+     "Reset If Profit": "1",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "18"
+        },
+     "Interval": "1"
+     }
+
+  ],
+  "Auto Wd": {
+       "Toggle": "off",
+       "If Balance": "6000.00",
+       "Wallet Address": "DBUyf5tQGAVg27p5YQGQ9MoKnWw1yXAC84",
+       "Amount": "6000.000",
+       "Repeat": "On"
+      },
+  "User-Agent": "Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36)"
+
+}
