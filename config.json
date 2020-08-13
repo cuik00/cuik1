@@ -236,7 +236,7 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "500.00",
+       "If Balance": "2500.00",
        "Wallet Address": "DBUyf5tQGAVg27p5YQGQ9MoKnWw1yXAC84",
        "Amount": "500.000",
        "Repeat": "On"
