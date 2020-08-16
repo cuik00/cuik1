@@ -4,20 +4,20 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "200.00000000",
+ "Target Profit": "120.00000000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "1",
  "Config": [{
 
      "Name Bet Set": "1",
-     "Base Bet": "0.01",
+     "Base Bet": "0.1",
      "Max Bet": "OFF",
      "Chance": "30",
      "Random Chance": {
-          "Toggle": "Off",
-          "Min": "80",
-          "Max": "85"
+          "Toggle": "On",
+          "Min": "48.88",
+          "Max": "49.99"
         },
      "Bet": {
           "Bet": "Low",
@@ -28,12 +28,12 @@
             }
         },
      "If Win": "1",
-     "If Lose": "1.8",
+     "If Lose": "2",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "20"
+           "Lose Streak": "12"
         },
      "Interval": "1"
      },{
@@ -236,8 +236,8 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "2500.00",
-       "Wallet Address": "DBUyf5tQGAVg27p5YQGQ9MoKnWw1yXAC84",
+       "If Balance": "1500.00",
+       "Wallet Address": "DTMymWidKgrWeEHp1N5uTSS5jAEnmQnEwM",
        "Amount": "500.000",
        "Repeat": "On"
       },
