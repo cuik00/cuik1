@@ -56,7 +56,7 @@
             }
         },
      "If Win": "1",
-     "If Lose": "96",
+     "If Lose": "1.96",
      "Reset If Win": "1",
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
