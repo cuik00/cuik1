@@ -4,7 +4,7 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "120.00000000",
+ "Target Profit": "50.00000000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "1",
@@ -16,7 +16,7 @@
      "Chance": "30",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "48.88",
+          "Min": "42.88",
           "Max": "49.99"
         },
      "Bet": {
@@ -33,7 +33,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "30"
         },
      "Interval": "1"
      },{
@@ -44,7 +44,7 @@
      "Chance": "49",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "48.66",
+          "Min": "41.66",
           "Max": "49.99"
         },
      "Bet": {
@@ -61,7 +61,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "35"
         },
      "Interval": "1"
      },{
@@ -72,7 +72,7 @@
      "Chance": "49.55",
      "Random Chance": {
           "Toggle": "Off",
-          "Min": "48.56",
+          "Min": "43.56",
           "Max": "50.01"
         },
      "Bet": {
@@ -89,7 +89,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "35"
         },
      "Interval": "1"
      },{
@@ -100,7 +100,7 @@
      "Chance": "49",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "48.7",
+          "Min": "42.7",
           "Max": "49.98"
         },
      "Bet": {
@@ -117,7 +117,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "36"
         },
      "Interval": "1"
      },{
@@ -128,7 +128,7 @@
      "Chance": "30",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "48.66",
+          "Min": "43.66",
           "Max": "50.01"
         },
      "Bet": {
@@ -145,7 +145,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "35"
         },
      "Interval": "1"
      },{
@@ -156,7 +156,7 @@
      "Chance": "49",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "48.65",
+          "Min": "42.65",
           "Max": "49.88"
         },
      "Bet": {
@@ -173,7 +173,7 @@
      "Reset If Profit": "1",
      "Reset If Lose Streak": {
            "Toggle": "On",
-           "Lose Streak": "17"
+           "Lose Streak": "36"
         },
      "Interval": "1"
      }
